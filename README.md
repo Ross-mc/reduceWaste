@@ -49,7 +49,7 @@ Reduce food waste, save money and the enviromental impact caused by food waste.
 
 ## Deployment
 
-Deployed through Heroku, Reduce Waste is available [here](https://reduce-waste.herokuapp.com/dashboard)
+Deployed through Heroku, Reduce Waste is available [here](https://reduce-waste.herokuapp.com/)
 
 <!-- screenshots -->
 ![Reduce Waste (1)](https://user-images.githubusercontent.com/67834752/116780334-f72fd480-aa73-11eb-9199-d7c6b836b80b.gif)
